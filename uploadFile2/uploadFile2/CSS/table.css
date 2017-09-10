@@ -1,0 +1,46 @@
+﻿@import url('https://fonts.googleapis.com/css?family=Lobster+Two');
+
+body {margin:0; padding:0;
+}
+
+#tablecontainer
+{
+    margin-top:50px;
+    width:60%;
+    margin-left:auto;
+    margin-right:auto;
+    border:3px solid darkorchid;
+    -webkit-border-radius: 25px;
+    -moz-border-radius: 25px;
+     border-radius: 25px;
+    
+}
+
+.fileinfo {
+    margin-left:100px;
+    margin-top:5px;
+    margin-bottom:5px;
+}
+
+h1 {
+    font-family: 'Lobster Two', cursive;
+    color:darkorchid;
+    text-align:center;
+}
+
+.bcr {
+    -webkit-border-radius: 25px;
+    -moz-border-radius: 25px;
+     border-radius: 25px;
+}
+
+.centerbutton         
+         {
+                  text-align:center;
+                  margin-left:auto;
+                  margin-right:auto;
+        }
+
+td {
+    padding:15px;margin-right:auto; margin-left:auto;text-align:center;
+}
